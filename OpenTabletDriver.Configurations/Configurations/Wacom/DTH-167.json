@@ -34,8 +34,5 @@
       "InitializationStrings": []
     }
   ],
-  "AuxilaryDeviceIdentifiers": [],
-  "Attributes": {
-    "libinputoverride": "1"
-  }
+  "Attributes": {}
 }
