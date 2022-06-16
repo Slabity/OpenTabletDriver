@@ -2,10 +2,10 @@
   "Name": "Wacom Cintiq 16 Pro (DTH167)",
   "Specifications": {
     "Digitizer": {
-      "Width": 344.0,
-      "Height": 194.0,
-      "MaxX": 59800.0,
-      "MaxY": 34200.0
+      "Width": 348.2,
+      "Height": 197.6,
+      "MaxX": 69644.0,
+      "MaxY": 39524.0
     },
     "Pen": {
       "MaxPressure": 8191,
